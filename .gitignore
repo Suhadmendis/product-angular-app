@@ -10,9 +10,7 @@ dist/
 build/
 out-tsc/
 
-# Environment
-environment.ts
-environment.prod.ts
+
 
 # Angular cache
 .angular/cache/
